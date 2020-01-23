@@ -1,3 +1,3 @@
 # postgres-docker
 
-Switch SQLite3 and PostgressSQL with Docker
+Switch SQLite3 and PostgreSQL with Docker
